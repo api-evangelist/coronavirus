@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme
 common:
+  - type: DomainSecurity
+    url: security/coronavirus-domain-security.yml
   - type: Website
     url: https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme
   - type: PublicAPIsListing

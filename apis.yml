@@ -39,7 +39,6 @@ apis:
   - name: Coronavirus
     description: "HTTP API for Latest Covid-19 Data"
     humanURL: https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme
-    baseURL: https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme
     tags:
       - Health
     properties:
